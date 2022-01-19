@@ -1,2 +1,2 @@
 # electricity-price-forecasting
-Using an LSTM-RNN machine learning model to forecast electricity prices
+Using an LSTM based RNN to forecast electricity prices
